@@ -77,7 +77,7 @@ def story():
     #add_line("") #no wild cards                                                                
     #add_line("{0}".format(var)) #with wild card
 
-    add_line("Suddenly, {0} entered the room!".format(n_0))
+    
     return("\n".join(lines))
 
 
